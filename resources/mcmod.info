@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Smog",
+  "name": "Smog",
+  "description": "Alpha paste",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ree"],
+  "credits": "Dank paste man",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
